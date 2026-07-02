@@ -1,3 +1,0 @@
-﻿  Fi.cpp
-C:\Users\Windows\source\repos\ConsoleApplication1\ConsoleApplication1\Fi.cpp(104,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ConsoleApplication1.vcxproj -> C:\Users\Windows\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
