@@ -5,7 +5,15 @@ The snake grows when it eats food (`F`). The game ends if you hit the wall or yo
 
 ## Controls
 - `WASD` — movement  
-- `X` — exit  
+- `X` — exit
+
+## Author
+
+**NIKTO** - C++ developer, aspiring systems programmer.
+
+## License
+
+MIT 
 
 ## How to build and run
 1. Open the project in **Visual Studio** (or any C++ compiler).
