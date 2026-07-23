@@ -15,6 +15,14 @@ Object-Oriented Programming version of the classic Snake game.
 - P: Pause
 - X: Exit
 
+## Author
+
+**NIKTO** - C++ developer, aspiring systems programmer.
+
+## License
+
+MIT 
+
 ## How to build
 - For Fi.cpp: `g++ Fi.cpp -o snake.exe`
 - For Snake OOP.cpp: `g++ "Snake OOP.cpp" -o snake_oop.exe`
